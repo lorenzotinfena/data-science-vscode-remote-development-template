@@ -24,8 +24,9 @@
 	"extensions": [
 		"ms-python.python",
 		"VisualStudioExptTeam.vscodeintellicode",
-		"ms-python.vscode-pylance"
+		"ms-python.vscode-pylance",
+		"ms-toolsai.jupyter",
+		"tabnine.tabnine-vscode",
+		"dongli.python-preview"
 	],
-
-	"postStartCommand": "conda init"
 }
