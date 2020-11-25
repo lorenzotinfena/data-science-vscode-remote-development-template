@@ -17,7 +17,8 @@
 		"python.linting.pycodestylePath": "/opt/conda/bin/pycodestyle",
 		"python.linting.pydocstylePath": "/opt/conda/bin/pydocstyle",
 		"python.linting.pylintPath": "/opt/conda/bin/pylint",
-		"terminal.integrated.inheritEnv": false
+		"terminal.integrated.inheritEnv": false,
+		"jupyter.experiments.optOutFrom": ["NativeNotebookEditor"]
 	},
 
 	// Add the IDs of extensions you want installed when the container is created
