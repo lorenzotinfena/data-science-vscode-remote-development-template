@@ -21,7 +21,7 @@ Offer a template to create your own data science enviroment writing as little co
 2. Build, run and open the container
 3. Code!
 
-## What is he workflow?
+## What is the workflow?
 1. Open the src folder with VSCode
 2. Edit files in .devcontainer folder in order to create your own invironment
 3. Rebuild, run and reopen the container
