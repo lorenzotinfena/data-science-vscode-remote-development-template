@@ -30,5 +30,5 @@ Offer a template to create your own data science enviroment writing as little co
 3. Rebuild, run and reopen the container
 4. Code! If you have to modify your environment, close the container and turn back to step 2
 
-## how I can contribute?
+## how can I contribute?
 If you like this project you can take part if you want: making a pull request :smiley:, or request to be a contributor! If you find an issue or propose a feature, we will be happy if you teel us in Issues section. For any information you can contact me.
