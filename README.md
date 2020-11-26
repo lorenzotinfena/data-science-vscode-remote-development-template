@@ -11,6 +11,8 @@ Offer a template to create your own data science enviroment writing as little co
 + Collaborative
 + Updated
 
+![jupyter-and-python-script](Screenshots/jupyter-and-python-script.png)
+
 ## What do I need?
 + `Docker`
 + `Visual studio code` or `Visual studio code insiders`
