@@ -1,4 +1,4 @@
-# DataScienceVSCodeRemoteContainerTemplate
+# data-science-vscode-remote-development-template
 
 ## What is the goal?
 Offer a template to create your own data science enviroment writing as little configuration as possible. The local ide is VSCode, using remote-container extension.
