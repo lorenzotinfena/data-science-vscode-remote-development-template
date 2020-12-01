@@ -21,6 +21,7 @@
 		"VisualStudioExptTeam.vscodeintellicode",
 		"ms-python.vscode-pylance",
 		"ms-toolsai.jupyter",
+		"tabnine.tabnine-vscode",
 		"dongli.python-preview",
 		"eamodio.gitlens",
 		"magicstack.magicpython"
