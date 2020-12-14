@@ -16,7 +16,7 @@ Offer a template to create your own data science enviroment writing as little co
 
 ## What do I need?
 + `Docker`
-+ `Visual Studio Code` or `Visual Studio Code insiders`
++ `Visual Studio Code` or `Visual Studio Code Insiders`
 + `Remote-Containers extension` installed on your VSCode version
 + (optional recommended) `Docker extension` installed on your VSCode version
 
